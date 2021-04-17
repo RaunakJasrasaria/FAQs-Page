@@ -1,0 +1,63 @@
+#faqspage{
+  background-image: linear-gradient(hsl(273, 75%, 66%),hsl(240, 73%, 65%));
+}
+.faqsdiv{
+  background-image: url("faq-accordion-card-main/images/bg-pattern-desktop.svg");
+  position:relative;
+  left: 300px;
+  width: 900px;
+  height: 450px;
+  background-color: white;
+  border-radius: 13px;
+}
+.illusbox{
+  position: relative;
+  top: 351px;
+  left: 150px;
+  z-index: 2;
+}
+.womanfaq{
+  height: 350px;
+  width: 350px;
+  position: relative;
+  right: 70px;
+  top: 40px;
+}
+.downarrow{
+  position:relative;
+  left:100px;
+  top: 10px;
+}
+.faqheading{
+  padding-top: 25px;
+  font-weight: bolder;
+  padding-bottom: 25px;
+}
+.hidden{
+  display: none;
+}
+.rotate{
+  transform: rotate(180deg);
+}
+.que:hover{
+  color: #f3c623;
+}
+.bold{
+  font-weight: bold;
+}
+.downarrowfive{
+  position: relative;
+  left: 122px;
+}
+.downarrowthree{
+  position: relative;
+  left: 165px;
+}
+.downarrowfour{
+  position: relative;
+  left: 163px;
+}
+.hrshift{
+  position: relative;
+  right: 20px;
+}
